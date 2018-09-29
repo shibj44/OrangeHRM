@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Orange HRM Application" duration-ms="144615" started-at="2018-09-28T17:17:00Z" finished-at="2018-09-28T17:19:25Z">
+    <groups>
+    </groups>
+    <test name="Opensource HRM Test" duration-ms="144615" started-at="2018-09-28T17:17:00Z" finished-at="2018-09-28T17:19:25Z">
+      <class name="hrm.testcases.PIMPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:hrm.testcases.PIMPageTest@5f341870]" name="setup" is-config="true" duration-ms="8026" started-at="2018-09-28T12:17:58Z" finished-at="2018-09-28T12:18:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyaddempTest()[pri:0, instance:hrm.testcases.PIMPageTest@5f341870]" name="verifyaddempTest" duration-ms="490" started-at="2018-09-28T12:18:06Z" finished-at="2018-09-28T12:18:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddempTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hrm.testcases.PIMPageTest@5f341870]" name="teardown" is-config="true" duration-ms="2221" started-at="2018-09-28T12:18:07Z" finished-at="2018-09-28T12:18:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- hrm.testcases.PIMPageTest -->
+      <class name="hrm.testcases.LoginpageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:hrm.testcases.LoginpageTest@3c0ecd4b]" name="setup" is-config="true" duration-ms="7737" started-at="2018-09-28T12:17:00Z" finished-at="2018-09-28T12:17:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="hrmLogoTest()[pri:0, instance:hrm.testcases.LoginpageTest@3c0ecd4b]" name="hrmLogoTest" duration-ms="153" started-at="2018-09-28T12:17:08Z" finished-at="2018-09-28T12:17:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hrmLogoTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hrm.testcases.LoginpageTest@3c0ecd4b]" name="teardown" is-config="true" duration-ms="881" started-at="2018-09-28T12:17:08Z" finished-at="2018-09-28T12:17:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:hrm.testcases.LoginpageTest@3c0ecd4b]" name="setup" is-config="true" duration-ms="5947" started-at="2018-09-28T12:17:09Z" finished-at="2018-09-28T12:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:hrm.testcases.LoginpageTest@3c0ecd4b]" name="loginTest" duration-ms="1385" started-at="2018-09-28T12:17:15Z" finished-at="2018-09-28T12:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hrm.testcases.LoginpageTest@3c0ecd4b]" name="teardown" is-config="true" duration-ms="849" started-at="2018-09-28T12:17:16Z" finished-at="2018-09-28T12:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:hrm.testcases.LoginpageTest@3c0ecd4b]" name="setup" is-config="true" duration-ms="5183" started-at="2018-09-28T12:17:17Z" finished-at="2018-09-28T12:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginpageTitleTest()[pri:0, instance:hrm.testcases.LoginpageTest@3c0ecd4b]" name="loginpageTitleTest" duration-ms="1015" started-at="2018-09-28T12:17:22Z" finished-at="2018-09-28T12:17:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hrm.testcases.LoginpageTest@3c0ecd4b]" name="teardown" is-config="true" duration-ms="783" started-at="2018-09-28T12:17:23Z" finished-at="2018-09-28T12:17:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- hrm.testcases.LoginpageTest -->
+      <class name="hrm.testcases.EmpListTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:hrm.testcases.EmpListTest@589838eb]" name="setup" is-config="true" duration-ms="11202" started-at="2018-09-28T12:19:11Z" finished-at="2018-09-28T12:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyEmpList()[pri:0, instance:hrm.testcases.EmpListTest@589838eb]" name="verifyEmpList" duration-ms="825" started-at="2018-09-28T12:19:22Z" finished-at="2018-09-28T12:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmpList -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hrm.testcases.EmpListTest@589838eb]" name="teardown" is-config="true" duration-ms="2045" started-at="2018-09-28T12:19:23Z" finished-at="2018-09-28T12:19:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- hrm.testcases.EmpListTest -->
+      <class name="hrm.testcases.HomepageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:hrm.testcases.HomepageTest@14bf9759]" name="setup" is-config="true" duration-ms="8625" started-at="2018-09-28T12:17:24Z" finished-at="2018-09-28T12:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomepageLabeltest()[pri:0, instance:hrm.testcases.HomepageTest@14bf9759]" name="verifyHomepageLabeltest" duration-ms="392" started-at="2018-09-28T12:17:33Z" finished-at="2018-09-28T12:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageLabeltest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hrm.testcases.HomepageTest@14bf9759]" name="teardown" is-config="true" duration-ms="2166" started-at="2018-09-28T12:17:33Z" finished-at="2018-09-28T12:17:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:hrm.testcases.HomepageTest@14bf9759]" name="setup" is-config="true" duration-ms="8744" started-at="2018-09-28T12:17:35Z" finished-at="2018-09-28T12:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomepageTitleTest()[pri:0, instance:hrm.testcases.HomepageTest@14bf9759]" name="verifyHomepageTitleTest" duration-ms="10" started-at="2018-09-28T12:17:44Z" finished-at="2018-09-28T12:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hrm.testcases.HomepageTest@14bf9759]" name="teardown" is-config="true" duration-ms="2430" started-at="2018-09-28T12:17:44Z" finished-at="2018-09-28T12:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:hrm.testcases.HomepageTest@14bf9759]" name="setup" is-config="true" duration-ms="8485" started-at="2018-09-28T12:17:47Z" finished-at="2018-09-28T12:17:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyPIMLinkTest()[pri:0, instance:hrm.testcases.HomepageTest@14bf9759]" name="verifyPIMLinkTest" duration-ms="1174" started-at="2018-09-28T12:17:55Z" finished-at="2018-09-28T12:17:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPIMLinkTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hrm.testcases.HomepageTest@14bf9759]" name="teardown" is-config="true" duration-ms="2136" started-at="2018-09-28T12:17:56Z" finished-at="2018-09-28T12:17:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- hrm.testcases.HomepageTest -->
+      <class name="hrm.testcases.JobPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:hrm.testcases.JobPageTest@271053e1]" name="setup" is-config="true" duration-ms="10010" started-at="2018-09-28T12:18:57Z" finished-at="2018-09-28T12:19:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addJobDetailsTest()[pri:0, instance:hrm.testcases.JobPageTest@271053e1]" name="addJobDetailsTest" duration-ms="1680" started-at="2018-09-28T12:19:07Z" finished-at="2018-09-28T12:19:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addJobDetailsTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hrm.testcases.JobPageTest@271053e1]" name="teardown" is-config="true" duration-ms="2097" started-at="2018-09-28T12:19:09Z" finished-at="2018-09-28T12:19:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- hrm.testcases.JobPageTest -->
+      <class name="hrm.testcases.PersonalDetailsTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:hrm.testcases.PersonalDetailsTest@4f7d0008]" name="setup" is-config="true" duration-ms="9558" started-at="2018-09-28T12:18:45Z" finished-at="2018-09-28T12:18:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyClickonJobTest()[pri:0, instance:hrm.testcases.PersonalDetailsTest@4f7d0008]" name="verifyClickonJobTest" duration-ms="524" started-at="2018-09-28T12:18:54Z" finished-at="2018-09-28T12:18:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickonJobTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hrm.testcases.PersonalDetailsTest@4f7d0008]" name="teardown" is-config="true" duration-ms="2084" started-at="2018-09-28T12:18:55Z" finished-at="2018-09-28T12:18:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- hrm.testcases.PersonalDetailsTest -->
+      <class name="hrm.testcases.AddEmpTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:hrm.testcases.AddEmpTest@553f17c]" name="setup" is-config="true" duration-ms="8838" started-at="2018-09-28T12:18:10Z" finished-at="2018-09-28T12:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addMultiplevaluesTest(java.lang.String, java.lang.String)[pri:0, instance:hrm.testcases.AddEmpTest@553f17c]" name="addMultiplevaluesTest" duration-ms="1185" started-at="2018-09-28T12:18:19Z" data-provider="gettestdata" finished-at="2018-09-28T12:18:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tony]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMultiplevaluesTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hrm.testcases.AddEmpTest@553f17c]" name="teardown" is-config="true" duration-ms="2109" started-at="2018-09-28T12:18:20Z" finished-at="2018-09-28T12:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:hrm.testcases.AddEmpTest@553f17c]" name="setup" is-config="true" duration-ms="8011" started-at="2018-09-28T12:18:22Z" finished-at="2018-09-28T12:18:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addMultiplevaluesTest(java.lang.String, java.lang.String)[pri:0, instance:hrm.testcases.AddEmpTest@553f17c]" name="addMultiplevaluesTest" duration-ms="981" started-at="2018-09-28T12:18:30Z" data-provider="gettestdata" finished-at="2018-09-28T12:18:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rosy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Don]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMultiplevaluesTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hrm.testcases.AddEmpTest@553f17c]" name="teardown" is-config="true" duration-ms="2052" started-at="2018-09-28T12:18:31Z" finished-at="2018-09-28T12:18:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:hrm.testcases.AddEmpTest@553f17c]" name="setup" is-config="true" duration-ms="8360" started-at="2018-09-28T12:18:33Z" finished-at="2018-09-28T12:18:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addMultiplevaluesTest(java.lang.String, java.lang.String)[pri:0, instance:hrm.testcases.AddEmpTest@553f17c]" name="addMultiplevaluesTest" duration-ms="1167" started-at="2018-09-28T12:18:41Z" data-provider="gettestdata" finished-at="2018-09-28T12:18:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sunny]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMultiplevaluesTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hrm.testcases.AddEmpTest@553f17c]" name="teardown" is-config="true" duration-ms="2204" started-at="2018-09-28T12:18:43Z" finished-at="2018-09-28T12:18:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- hrm.testcases.AddEmpTest -->
+    </test> <!-- Opensource HRM Test -->
+  </suite> <!-- Orange HRM Application -->
+</testng-results>
